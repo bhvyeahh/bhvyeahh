@@ -7,7 +7,7 @@
 - 🌱 I’m learning **encryption, Node.js internals, and building strong backend**
 - 👨‍💻 All of my projects are available at [My Portfolio](#) *(Add your link)*
 - 💬 Ask me about **React, MongoDB, Node, Express**
-- ⚡ Fun fact **My producer tag is _"Bhavya on the mic yo"_ 🎧**
+
 
 ---
 
