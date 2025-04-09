@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Backend Development & DevOps**
 - 🔭 I’m working on **Daily backend and frontend coding practice**
 - 💬 Ask me about **React, MongoDB, Node.js, Express**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **bhavyarathore575@gmail.com**
 - ⚡ Fun fact **I talk to code more than humans 😅**
 
 ---
