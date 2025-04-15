@@ -1,24 +1,24 @@
-<div align="center">
-  <h1>Hi 👋, I'm Bhavya Rathore</h1>
-  <h3>A passionate MERN stack developer from India</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Bhavya Rathore</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <p>
-      🌱 I’m currently learning Backend Development & DevOps<br>
-      🔭 I’m working on Daily backend and frontend coding practice<br>
-      💬 Ask me about React, MongoDB, Node.js, Express<br>
-      📫 How to reach me bhavyarathore575@gmail.com<br>
-      ⚡ Fun fact I talk to code more than humans 😅
-    </p>
-  </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img alt="Coding" width="250" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="max-width: 100%; height: auto;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+🌱 I’m currently learning Backend Development & DevOps<br>
+🔭 I’m working on Daily backend and frontend coding practice<br>
+💬 Ask me about React, MongoDB, Node.js, Express<br>
+📫 How to reach me bhavyarathore575@gmail.com<br>
+⚡ Fun fact I talk to code more than humans 😅
 
-🌱 I’m currently learning Backend Development & DevOps<br>🔭 I’m working on Daily backend and frontend coding practice<br>💬 Ask me about React, MongoDB, Node.js, Express<br>📫 How to reach me bhavyarathore575@gmail.com<br>⚡ Fun fact I talk to code more than humans 😅
+   </td>
+   <td valign="top" width="40%">
+     
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="coding gif">
+     
+   </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
